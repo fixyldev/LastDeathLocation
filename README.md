@@ -1,4 +1,4 @@
-![Last Death Location Banner](banner.png)
+[![Last Death Location Banner](banner.png)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
 [<img src="modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
