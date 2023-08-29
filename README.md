@@ -1,8 +1,8 @@
-[![Last Death Location Banner](banner.png)](https://modrinth.com/datapack/last-death-location)
+[![Last Death Location Banner](assets/banner.png)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
-[<img src="modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
-[<img src="curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
+[<img src="assets/modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
+[<img src="assets/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
 <br></br>
 
 ## 🗒️ Description
@@ -24,13 +24,13 @@ This **datapack** for Minecraft Java Edition gives you the possibility to displa
 <br/><br/>
 
 ## 📷 Gallery
-![Message for Overworld Death](overworld.png?raw=true)
-![Message for Nether Death](the_nether.png?raw=true)
-![Message for End Death](the_end.png?raw=true)
+![Message for Overworld Death](assets/overworld.png?raw=true)
+![Message for Nether Death](assets/the_nether.png?raw=true)
+![Message for End Death](assets/the_end.png?raw=true)
 
-![Settings Menu](settings.png?raw=true)
+![Settings Menu](assets/settings.png?raw=true)
 
-![Death Location](location.png?raw=true)
+![Death Location](assets/location.png?raw=true)
 <br></br>
 
 ##
