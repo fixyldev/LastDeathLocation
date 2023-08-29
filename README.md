@@ -24,13 +24,13 @@ This **datapack** for Minecraft Java Edition gives you the possibility to displa
 <br/><br/>
 
 ## 📷 Gallery
-![Message for Overworld Death](overworld.png)
-![Message for Nether Death](the_nether.png)
-![Message for End Death](the_end.png)
+![Message for Overworld Death](overworld.png?raw=true)
+![Message for Nether Death](the_nether.png?raw=true)
+![Message for End Death](the_end.png?raw=true)
 
-![Settings Menu](settings.png)
+![Settings Menu](settings.png?raw=true)
 
-![Death Location](location.png)
+![Death Location](location.png?raw=true)
 <br></br>
 
 ##
