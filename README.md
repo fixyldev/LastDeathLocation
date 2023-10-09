@@ -1,7 +1,7 @@
 # Last Death Location
 [![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/DerJulHD/DerJulHD/blob/main/STATUS.md#passively-maintained)
-[![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&color=gray&label)](https://modrinth.com/datapack/last-death-location)
-[![CurseForge](https://img.shields.io/curseforge/dt/621304?style=for-the-badge&logo=curseforge&color=gray&label)](https://curseforge.com/minecraft/texture-packs/last-death-location)
+[![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/datapack/last-death-location)
+[![CurseForge](https://img.shields.io/curseforge/dt/621304?style=for-the-badge&logo=curseforge&labelColor=gray&color=f16436&label)](https://curseforge.com/minecraft/texture-packs/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
 [![Last Death Location Banner](assets/banner.png)](https://modrinth.com/datapack/last-death-location)
