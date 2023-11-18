@@ -26,9 +26,9 @@ scoreboard objectives remove lastdeathlocation.marker_count.select
 
 kill @e[tag=lastdeathlocation]
 
-datapack disable "file/Last Death Location - 23.38.zip"
-datapack disable "file/Last Death Location - 23.38"
-datapack disable "file/Last+Death+Location+-+23.38.zip"
-datapack disable "file/Last+Death+Location+-+23.38"
-datapack disable "file/Last_Death_Location_-_23.38.zip"
-datapack disable "file/Last_Death_Location_-_23.38"
+datapack disable "file/Last Death Location - 1.0.3.zip"
+datapack disable "file/Last Death Location - 1.0.3"
+datapack disable "file/Last+Death+Location+-+1.0.3.zip"
+datapack disable "file/Last+Death+Location+-+1.0.3"
+datapack disable "file/Last_Death_Location_-_1.0.3.zip"
+datapack disable "file/Last_Death_Location_-_1.0.3"
