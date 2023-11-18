@@ -4,11 +4,11 @@
 [![CurseForge](https://img.shields.io/curseforge/dt/621304?style=for-the-badge&logo=curseforge&labelColor=gray&color=f16436&label)](https://curseforge.com/minecraft/texture-packs/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
-[![Last Death Location Banner](assets/banner.png)](https://modrinth.com/datapack/last-death-location)
+[![Last Death Location Banner](images/banner.png)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
-[<img src="assets/modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
-[<img src="assets/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
+[<img src="images/modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
+[<img src="images/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
 <br></br>
 
 ## 🗒️ Description
@@ -30,13 +30,10 @@ This **datapack** for Minecraft Java Edition gives you the possibility to displa
 <br/><br/>
 
 ## 📷 Gallery
-![Message for Overworld Death](assets/overworld.png?raw=true)
-![Message for Nether Death](assets/the_nether.png?raw=true)
-![Message for End Death](assets/the_end.png?raw=true)
+![Message for Overworld Death](images/overworld.png?raw=true)
+![Message for Nether Death](images/the_nether.png?raw=true)
+![Message for End Death](images/the_end.png?raw=true)
 
-![Settings Menu](assets/settings.png?raw=true)
+![Settings Menu](images/settings.png?raw=true)
 
-![Death Location](assets/location.png?raw=true)
-
-##
-<center><p>This repository is mainly used for navigation and issue tracking.</p></center>
+![Death Location](images/location.png?raw=true)
