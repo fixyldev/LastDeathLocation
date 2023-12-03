@@ -18,15 +18,10 @@ This **datapack** for Minecraft Java Edition gives you the possibility to displa
 ## ⌨️ Commands
 ### Users:
 - `/trigger -deathlocation` displays your last death location in the chat
+- `/trigger -deathhistory` coming soon...
 - `/trigger -deathsettings` displays the settings menu in the chat
 ### Operators:
-- `/function lastdeathlocation:update` prepares the datapack for updating to a newer version of the datapack (retains all settings)
-- `/function lastdeathlocation:uninstall` prepares the datapack for uninstallation (removes every scoreboard, etc.)
-<br/><br/>
-
-## 🌍 Languages
-- English *(default language)*
-- German
+- `/function ldl:_uninstall` prepares the datapack for uninstallation (removes every scoreboard, etc.)
 <br/><br/>
 
 ## 📷 Gallery
