@@ -7,4 +7,4 @@
 # >> execute as @e[tag=ldl.aec] at @s on origin if entity @s[distance=..5] unless entity @s[nbt={Health: 0.0f}] as @e[tag=ldl.aec, limit=1, sort=nearest, distance=..5] run function ldl:src/aec/collect/animation
 
 # workaround for now (a bit less efficient)
-execute as @e[tag=ldl.aec] at @s as @p[distance=..5] unless entity @s[nbt={Health: 0.0f}] run function ldl:src/aec/collect/player_present
+execute as @e[tag=ldl.aec] at @s as @a[distance=..5] unless entity @s[nbt={Health: 0.0f}] run function ldl:src/aec/collect/player_present
