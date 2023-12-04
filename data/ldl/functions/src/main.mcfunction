@@ -5,6 +5,6 @@
 
 execute as @a[scores={ldl.death=1..}] run function ldl:src/has_died
 
-function ldl:src/aec/particle
+execute at @e[tag=ldl.aec] run function ldl:src/aec/particle
 
 function ldl:src/aec/collect/test_for_player
