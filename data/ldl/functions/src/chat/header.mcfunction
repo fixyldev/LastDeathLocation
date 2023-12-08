@@ -3,6 +3,6 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-say deathhistory
+function ldl:src/chat/empty_lines
 
-scoreboard players set @s -deathhistory 0
+$tellraw @s ["---- [ ", $(Path), " ] $(Border)"]

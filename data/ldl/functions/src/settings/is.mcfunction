@@ -3,6 +3,4 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-say deathhistory
-
-scoreboard players set @s -deathhistory 0
+return run function ldl:src/settings/value with storage ldl:cache Cache

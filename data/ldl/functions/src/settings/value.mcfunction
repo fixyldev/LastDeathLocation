@@ -3,6 +3,4 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-say deathhistory
-
-scoreboard players set @s -deathhistory 0
+$return run data get storage ldl:settings Settings."$(UUID0), $(UUID1), $(UUID2), $(UUID3)".$(PathA).$(PathB)

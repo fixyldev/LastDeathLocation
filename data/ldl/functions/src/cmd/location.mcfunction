@@ -3,7 +3,6 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-scoreboard players set @s -deathlocation 0
+scoreboard players set @s -deathmenu 17
 
-function ldl:src/get_ldl
-function ldl:src/chat/ldl with storage ldl:cache Cache.Arguments
+scoreboard players set @s -deathlocation 0
