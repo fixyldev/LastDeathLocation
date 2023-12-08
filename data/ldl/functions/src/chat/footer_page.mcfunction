@@ -3,6 +3,4 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-say deathhistory
-
-scoreboard players set @s -deathhistory 0
+$tellraw @s "$(Border) <<< Page $(Page) of $(MaxPage) >>> $(Border)$(BorderDiff)"

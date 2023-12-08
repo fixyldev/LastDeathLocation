@@ -3,6 +3,4 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-say deathhistory
-
-scoreboard players set @s -deathhistory 0
+return run data get storage ldl:cache Cache.PathC
