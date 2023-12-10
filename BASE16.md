@@ -5,6 +5,21 @@
 | Last Death Location                          | 1              | 0            | 1                |
 | Last Death Location / Location               | 1.1            | 0            | 17               |
 | Last Death Location / History                | 1.2            | 0            | 33               |
+| Last Death Location / History                | 1.2            | 1            | 4129             |
+| Last Death Location / History                | 1.2            | 2            | 8225             |
+| Last Death Location / History                | 1.2            | 3            | 12321            |
+| Last Death Location / History                | 1.2            | 4            | 16417            |
+| Last Death Location / History                | 1.2            | 5            | 20513            |
+| Last Death Location / History                | 1.2            | 6            | 24609            |
+| Last Death Location / History                | 1.2            | 7            | 28705            |
+| Last Death Location / History                | 1.2            | 8            | 32801            |
+| Last Death Location / History                | 1.2            | 9            | 36897            |
+| Last Death Location / History                | 1.2            | 10           | 40993            |
+| Last Death Location / History                | 1.2            | 11           | 45089            |
+| Last Death Location / History                | 1.2            | 12           | 49185            |
+| Last Death Location / History                | 1.2            | 13           | 53281            |
+| Last Death Location / History                | 1.2            | 14           | 57377            |
+| Last Death Location / History                | 1.2            | 15           | 61473            |
 | Last Death Location / Settings               | 1.3            | 0            | 49               |
 | Last Death Location / Settings / Chat        | 1.3.1          | 0            | 305              |
 | Last Death Location / Settings / Environment | 1.3.2          | 0            | 561              |
