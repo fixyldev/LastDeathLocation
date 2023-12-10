@@ -6,4 +6,4 @@
 function ldl:src/get_ldl_from_history with storage ldl:cache Cache
 function ldl:src/chat/history with storage ldl:cache Cache
 
-function ldl:src/chat/footer_page_start {Page: 1, MaxPage: 16, Right: 4129, Border: "----------------------------"}
+function ldl:src/chat/footer_page {Page: 13, MaxPage: 16, Left: 45089, Right: 53281, Border: "---------------------------"}

@@ -5,7 +5,7 @@
 
 function ldl:src/get_uuid
 
-function ldl:src/chat/header {Path: '[{"text": "Last Death Location", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 1"}}, " / ", {"text": "Settings", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 49"}}, " / ", {"text": "Environment", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 561"}}]', Border: "-----"}
+function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 1"}}, {"text": "Settings / ", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 49"}}, {"text": "Environment", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 561"}}]', Border: "-----"}
 
 tellraw @s ""
 
