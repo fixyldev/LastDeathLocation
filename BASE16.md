@@ -26,7 +26,6 @@
 | Last Death Location / Settings / System      | 1.3.3          | 0            | 817              |
 | Last Death Location / About                  | 1.4            | 0            | 65               |
 | Last Death Location / About / Version        | 1.4.1          | 0            | 321              |
-| Last Death Location / About / Changelog      | 1.4.2          | 0            | 577              |
 
 
 # Settings
