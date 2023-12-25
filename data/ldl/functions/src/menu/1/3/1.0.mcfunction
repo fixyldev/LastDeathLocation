@@ -9,9 +9,9 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 
 tellraw @s ""
 
-data merge storage ldl:cache {Cache: {PathA: 1, PathB: 1}}
-execute if function ldl:src/settings/is run tellraw @s [{"text": "  > ", "color": "yellow"}, {"text": "Automated display", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 17"}}, {"text": " <", "color": "yellow"}]
-execute unless function ldl:src/settings/is run tellraw @s [{"text": "  > ", "color": "dark_green"}, {"text": "Automated display", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 17"}}, {"text": " <", "color": "dark_green"}]
+data merge storage ldl:cache {Cache: {PathA: 2, PathB: 1}}
+execute if function ldl:src/settings/is run tellraw @s [{"text": "  > ", "color": "yellow"}, {"text": "Automated display", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}}, {"text": " <", "color": "yellow"}]
+execute unless function ldl:src/settings/is run tellraw @s [{"text": "  > ", "color": "dark_green"}, {"text": "Automated display", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}}, {"text": " <", "color": "dark_green"}]
 
 tellraw @s "\n\n\n\n"
 

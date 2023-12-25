@@ -33,7 +33,8 @@
 
 | Path                        | Single Base 16 | Combined Base 10 | Default (no value/false) |
 |-----------------------------|----------------|------------------|--------------------------|
-| Chat / Automated Display    | 1.1            | 17               | true                     |
-| Environment / Create Cuboid | 2.1            | 18               | true                     |
-| System / Log History        | 3.1            | 19               | true                     |
-| System / Clear History      | 3.2            | 35               | none                     |
+| Settings / Reset            | 1.1            | 17               | none                     |
+| Chat / Automated Display    | 2.1            | 18               | true                     |
+| Environment / Create Cuboid | 3.1            | 19               | true                     |
+| System / Log History        | 4.1            | 20               | true                     |
+| System / Clear History      | 4.2            | 36               | none                     |
