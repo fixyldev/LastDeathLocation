@@ -11,6 +11,10 @@ tellraw @s ["  > ", {"text": "Chat", "clickEvent": {"action": "run_command", "va
 tellraw @s ["  > ", {"text": "Environment", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 561"}}, " <"]
 tellraw @s ["  > ", {"text": "System", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 817"}}, " <"]
 
-tellraw @s "\n\n"
+tellraw @s ""
+
+tellraw @s [{"text": "  > ", "color": "red"}, {"text": "Reset settings", "color": "red", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 17"}}, {"text": " <", "color": "red"}]
+
+tellraw @s ""
 
 function ldl:src/chat/footer

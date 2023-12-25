@@ -8,8 +8,11 @@ scoreboard players reset @s ldl.death
 function ldl:src/get_uuid
 function ldl:src/get_ldl
 
-execute if entity @s[gamemode=!spectator] run function ldl:src/aec/summon with storage ldl:cache Cache
+data merge storage ldl:cache {Cache: {PathA: 3, PathB: 1}}
+execute unless function ldl:src/settings/is if entity @s[gamemode=!spectator] run function ldl:src/aec/summon with storage ldl:cache Cache
 
-function ldl:src/push_history with storage ldl:cache Cache
+data merge storage ldl:cache {Cache: {PathA: 4, PathB: 1}}
+execute unless function ldl:src/settings/is run function ldl:src/push_history with storage ldl:cache Cache
 
-scoreboard players set @s -deathmenu 17
+data merge storage ldl:cache {Cache: {PathA: 2, PathB: 1}}
+execute unless function ldl:src/settings/is run scoreboard players set @s -deathmenu 17
