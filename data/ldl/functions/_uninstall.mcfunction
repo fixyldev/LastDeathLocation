@@ -16,3 +16,5 @@ scoreboard objectives remove ldl.calc
 data remove storage ldl:cache Cache
 data remove storage ldl:settings Settings
 data remove storage ldl:history History
+
+kill @e[tag=ldl.aec]
