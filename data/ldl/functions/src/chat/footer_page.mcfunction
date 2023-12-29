@@ -3,4 +3,4 @@
 # Copyright (c) 2023 fixyldev
 ###############################
 
-$tellraw @s ["---- ", {"text": "<<<", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set $(Left)"}}, " Page $(Page) of $(MaxPage) ", {"text": ">>>", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set $(Right)"}}, " $(Border)"]
+$tellraw @s ["---- ", {"text": "<<<", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set $(Left)"}, "hoverEvent": {"action": "show_text", "contents": "Click to navigate"}}, " Page $(Page) of $(MaxPage) ", {"text": ">>>", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set $(Right)"}, "hoverEvent": {"action": "show_text", "contents": "Click to navigate"}}, " $(Border)"]
