@@ -7,8 +7,9 @@
 [![Last Death Location Banner](images/banner.png)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
-[<img src="images/modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
-[<img src="images/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
+[<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
+&nbsp;
+[<img src="https://github.com/fixyldev/fixyldev/blob/main/download/curseforge.svg" height="80">](https://curseforge.com/minecraft/texture-packs/last-death-location)
 
 ## 🗒️ Description [Deprecated]
 This **datapack** for Minecraft Java Edition gives you the possibility to display your "Last Death Location" after death in the chat. It displays the **coordinates**, the **dimension (mod compatible)** and creates a particle cuboid. The gamerule "doImmediateRespawn" must be disabled. If not, it will be disabled during installation and re-enabled after uninstallation. This datapack is somewhat a **cheat**, so be sure you want to use it. Otherwise use the Recovery Compass (vanilla item) instead of the datapack.
