@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2023 fixyldev
+# Copyright (c) 2024 fixyldev
 ###############################
 
 function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 1"}, "hoverEvent": {"action": "show_text", "contents": "Click to navigate"}}, {"text": "About / ", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 65"}, "hoverEvent": {"action": "show_text", "contents": "Click to navigate"}}, {"text": "Version", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 321"}, "hoverEvent": {"action": "show_text", "contents": "Click to navigate"}, "underlined": true}]', Border: "-----------"}

@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2023 fixyldev
+# Copyright (c) 2024 fixyldev
 ###############################
 
 function ldl:src/chat/ldl_menu
