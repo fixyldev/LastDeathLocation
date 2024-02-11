@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2023 fixyldev
+# Copyright (c) 2024 fixyldev
 ###############################
 
 # buggy (minecraft bug) -> setting owner of area effect cloud when the player is in death screen causes "on origin" to not work (but command would work if "doImmediateRespawn" is enabled)
