@@ -8,12 +8,12 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 tellraw @s ""
 
 tellraw @s [{"text": "  Version:  ", "color": "gold"}, {"text": "2.0.0", "color": "yellow"}]
-tellraw @s [{"text": "  Date:      ", "color": "gold"}, {"text": "2023-12-29", "color": "yellow"}]
+tellraw @s [{"text": "  Date:      ", "color": "gold"}, {"text": "2024-02-11", "color": "yellow"}]
 
 tellraw @s ""
 
 tellraw @s {"text": "  All Rights Reserved", "color": "gray"}
-tellraw @s {"text": "  Copyright (c) 2023 fixyldev", "color": "gray"}
+tellraw @s {"text": "  Copyright (c) 2024 fixyldev", "color": "gray"}
 
 tellraw @s ""
 
