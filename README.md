@@ -23,6 +23,9 @@
 - `/function ldl:_remove_cuboids`: Removes all currently chunk-loaded cuboids.
 - `/function ldl:_uninstall`: Removes all scoreboards, data storage, and loaded entities of the datapack.
 
+## 🌍 Languages
+"Last Death Location" does not natively support languages other than **English**. If you wish to use this datapack in your own language, you can create a resourcepack that utilizes translation keys. A template for translation keys can be found [here](assets/lang/template_2.0.0.json).
+
 ## 📷 Gallery [Deprecated]
 ![Message for Overworld Death](images/overworld.png?raw=true)
 ![Message for Nether Death](images/the_nether.png?raw=true)
