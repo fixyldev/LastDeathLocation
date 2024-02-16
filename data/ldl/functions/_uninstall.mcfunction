@@ -6,7 +6,6 @@
 scoreboard objectives remove -deathlocation
 scoreboard objectives remove -deathhistory
 scoreboard objectives remove -deathsettings
-
 scoreboard objectives remove -deathmenu
 
 scoreboard objectives remove ldl.death
