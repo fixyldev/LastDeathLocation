@@ -8,20 +8,20 @@
 ## 📥 Download
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
 
-## 🗒️ Description [Deprecated]
-This **datapack** for Minecraft Java Edition gives you the possibility to display your "Last Death Location" after death in the chat. It displays the **coordinates**, the **dimension (mod compatible)** and creates a particle cuboid. The gamerule "doImmediateRespawn" must be disabled. If not, it will be disabled during installation and re-enabled after uninstallation. This datapack is somewhat a **cheat**, so be sure you want to use it. Otherwise use the Recovery Compass (vanilla item) instead of the datapack.
+## 🗒️ Description
+"Last Death Location" is a datapack for Minecraft Java Edition that allows users to view recent death locations. These locations can be accessed via the menu. The history in the menu can store up to 16 recent deaths. The datapack also offers several options to customize the user's experience. As there is no need for a "Recovery Compass" to view the last death location, some may consider this datapack as a form of **cheat**.
 
 ## ⌨️ Commands
-### Users:
-- `/trigger -deathlocation` displays your last death location
-- `/trigger -deathhistory` displays your death history
-- `/trigger -deathsettings` displays the settings menu
-- `/trigger -deathmenu` displays the datapack-wide menu
-### Operators:
-- `/function ldl:_clear_histories` clears the death history of every player
-- `/function ldl:_reset_settings` resets the settings of ever player (restore default values)
-- `/function ldl:_remove_cuboids` removes every cuboid currently being chunk-loaded
-- `/function ldl:_uninstall` removes every scoreboard, data storage and loaded entities of the datapack
+- `/trigger -deathlocation`: Displays your most recent death location.
+- `/trigger -deathhistory`: Shows your death history.
+- `/trigger -deathsettings`: Opens the settings menu.
+- `/trigger -deathmenu`: Opens the datapack-wide menu.
+
+## 🚀 Functions
+- `/function ldl:_clear_histories`: Clears the death history for all players.
+- `/function ldl:_reset_settings`: Resets the settings for all players (restores default values).
+- `/function ldl:_remove_cuboids`: Removes all currently chunk-loaded cuboids.
+- `/function ldl:_uninstall`: Removes all scoreboards, data storage, and loaded entities of the datapack.
 
 ## 📷 Gallery [Deprecated]
 ![Message for Overworld Death](images/overworld.png?raw=true)
