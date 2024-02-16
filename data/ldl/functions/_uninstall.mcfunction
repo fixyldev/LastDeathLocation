@@ -17,3 +17,5 @@ data remove storage ldl:settings Settings
 data remove storage ldl:history History
 
 kill @e[tag=ldl.aec]
+
+return 0
