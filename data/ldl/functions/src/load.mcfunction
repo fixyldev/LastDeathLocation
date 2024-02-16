@@ -11,4 +11,5 @@ scoreboard objectives add -deathmenu trigger
 scoreboard objectives add ldl.death deathCount
 
 scoreboard objectives add ldl.calc dummy
+scoreboard players set #-1 ldl.calc -1
 scoreboard players set #16 ldl.calc 16

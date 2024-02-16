@@ -15,4 +15,4 @@ data merge storage ldl:cache {Cache: {PathA: 4, PathB: 1}}
 execute unless function ldl:src/settings/is run function ldl:src/history/push with storage ldl:cache Cache
 
 data merge storage ldl:cache {Cache: {PathA: 2, PathB: 1}}
-execute unless function ldl:src/settings/is run scoreboard players set @s -deathmenu 17
+execute unless function ldl:src/settings/is run scoreboard players set @s -deathmenu -17
