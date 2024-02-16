@@ -1,15 +1,12 @@
 # Last Death Location
 [![Actively Developed](https://img.shields.io/badge/status-actively_developed-brightgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#actively-developed)
 [![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/datapack/last-death-location)
-[![CurseForge](https://img.shields.io/curseforge/dt/621304?style=for-the-badge&logo=curseforge&labelColor=gray&color=f16436&label)](https://curseforge.com/minecraft/texture-packs/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
 [![Last Death Location Banner](images/banner.png)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
-&nbsp;
-[<img src="https://github.com/fixyldev/fixyldev/blob/main/download/curseforge.svg" height="80">](https://curseforge.com/minecraft/texture-packs/last-death-location)
 
 ## 🗒️ Description [Deprecated]
 This **datapack** for Minecraft Java Edition gives you the possibility to display your "Last Death Location" after death in the chat. It displays the **coordinates**, the **dimension (mod compatible)** and creates a particle cuboid. The gamerule "doImmediateRespawn" must be disabled. If not, it will be disabled during installation and re-enabled after uninstallation. This datapack is somewhat a **cheat**, so be sure you want to use it. Otherwise use the Recovery Compass (vanilla item) instead of the datapack.
