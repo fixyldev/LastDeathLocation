@@ -9,7 +9,7 @@
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
 
 ## 🗒️ Description
-"Last Death Location" is a datapack for Minecraft Java Edition that allows users to view recent death locations. These locations can be accessed via the menu. The history in the menu can store up to 16 recent deaths. The datapack also offers several options to customize the user's experience. As there is no need for a "Recovery Compass" to view the last death location, some may consider this datapack as a form of **cheat**.
+"Last Death Location" is a datapack for Minecraft Java Edition that allows players to view recent death locations. These locations can be accessed via the menu. The history in the menu can store up to 16 recent deaths. The datapack also offers several options to customize the player's experience. As there is no need for a "Recovery Compass" to view the last death location, some may consider this datapack as a form of **cheat**.
 
 ## ⌨️ Commands
 - `/trigger -deathlocation`: Displays the most recent death location.
