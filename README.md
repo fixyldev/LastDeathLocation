@@ -12,8 +12,8 @@
 "Last Death Location" is a datapack for Minecraft Java Edition that allows users to view recent death locations. These locations can be accessed via the menu. The history in the menu can store up to 16 recent deaths. The datapack also offers several options to customize the user's experience. As there is no need for a "Recovery Compass" to view the last death location, some may consider this datapack as a form of **cheat**.
 
 ## ⌨️ Commands
-- `/trigger -deathlocation`: Displays your most recent death location.
-- `/trigger -deathhistory`: Shows your death history.
+- `/trigger -deathlocation`: Displays the most recent death location.
+- `/trigger -deathhistory`: Displays the death history.
 - `/trigger -deathsettings`: Opens the settings menu.
 - `/trigger -deathmenu`: Opens the datapack-wide menu.
 
