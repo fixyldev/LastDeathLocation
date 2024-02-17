@@ -10,8 +10,8 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 tellraw @s ""
 
 data merge storage ldl:cache {Cache: {PathA: 4, PathB: 1}}
-execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.history", "fallback": "Log history", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 20"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.history.description", "fallback": "Whether your deaths are logged as a history"}}}, " <"]
-execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.history", "fallback": "Log history", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 20"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.history.description", "fallback": "Whether your deaths are logged as a history"}}}, " <"]
+execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.history", "fallback": "Log history", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 20"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.history.description", "fallback": "Indicates whether deaths are logged as a history"}}}, " <"]
+execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.history", "fallback": "Log history", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 20"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.history.description", "fallback": "Indicates whether deaths are logged as a history"}}}, " <"]
 
 tellraw @s ""
 

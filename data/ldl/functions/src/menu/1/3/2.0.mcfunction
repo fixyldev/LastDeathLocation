@@ -10,8 +10,8 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 tellraw @s ""
 
 data merge storage ldl:cache {Cache: {PathA: 3, PathB: 1}}
-execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.2.cuboid", "fallback": "Create cuboid", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 19"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.2.cuboid.description", "fallback": "Whether a cuboid is being created at your death position after death"}}}, " <"]
-execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.2.cuboid", "fallback": "Create cuboid", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 19"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.2.cuboid.description", "fallback": "Whether a cuboid is being created at your death position after death"}}}, " <"]
+execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.2.cuboid", "fallback": "Create cuboid", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 19"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.2.cuboid.description", "fallback": "Specifies whether a cuboid is created at the death position after death"}}}, " <"]
+execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.2.cuboid", "fallback": "Create cuboid", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 19"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.2.cuboid.description", "fallback": "Specifies whether a cuboid is created at the death position after death"}}}, " <"]
 
 tellraw @s "\n\n\n\n"
 
