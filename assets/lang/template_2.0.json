@@ -49,7 +49,7 @@
     "ldl.menu.1.3.3.history": "Log history",
     "ldl.menu.1.3.3.history.description": "Indicates whether deaths are logged as a history",
     "ldl.menu.1.3.3.clear": "Clear history",
-    "ldl.menu.1.3.3.clear.description": "Clears your entire death history",
+    "ldl.menu.1.3.3.clear.description": "Clears the entire death history",
     "ldl.menu.1.3.3.clear.done": "History already cleared",
 
     "ldl.menu.1.4.title": "About",

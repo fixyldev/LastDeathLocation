@@ -15,7 +15,7 @@ execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate"
 
 tellraw @s ""
 
-execute if function ldl:src/history/size run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.clear", "fallback": "Clear history", "color": "red", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 36"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.clear.description", "fallback": "Clears your entire death history"}}}, " <"]
+execute if function ldl:src/history/size run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.3.clear", "fallback": "Clear history", "color": "red", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 36"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.clear.description", "fallback": "Clears the entire death history"}}}, " <"]
 execute unless function ldl:src/history/size run tellraw @s [{"text": "  > ", "color": "gray"}, {"translate": "ldl.menu.1.3.3.clear", "fallback": "Clear history", "color": "gray", "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.3.clear.done", "fallback": "History already cleared"}}}, {"text": " <", "color": "gray"}]
 
 tellraw @s "\n\n"
