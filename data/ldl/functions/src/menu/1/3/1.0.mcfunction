@@ -10,8 +10,8 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 tellraw @s ""
 
 data merge storage ldl:cache {Cache: {PathA: 2, PathB: 1}}
-execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.1.display", "fallback": "Automated display", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.1.display.description", "fallback": "Whether your death position is automatically being displayed after death"}}}, " <"]
-execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.1.display", "fallback": "Automated display", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.1.display.description", "fallback": "Whether your death position is automatically being displayed after death"}}}, " <"]
+execute if function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.1.display", "fallback": "Automated display", "color": "yellow", "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.1.display.description", "fallback": "Determines whether the death position is automatically displayed after death"}}}, " <"]
+execute unless function ldl:src/settings/is run tellraw @s ["  > ", {"translate": "ldl.menu.1.3.1.display", "fallback": "Automated display", "color": "dark_green", "underlined": true, "clickEvent": {"action": "run_command", "value": "/trigger -deathsettings set 18"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.menu.1.3.1.display.description", "fallback": "Determines whether the death position is automatically displayed after death"}}}, " <"]
 
 tellraw @s "\n\n\n\n"
 
