@@ -23,3 +23,9 @@
 
 ## 🌍 Languages
 "Last Death Location" does not natively support languages other than **English**. If you wish to use this datapack in your own language, you can create a custom resourcepack that utilizes translation keys. A more in-depth explanation can be found [here](https://github.com/fixyldev/LastDeathLocation/wiki/Languages).
+
+## 🔍 Useful Resources
+- 📖 [**Wiki**](https://github.com/fixyldev/LastDeathLocation/wiki): For comprehensive datapack information.
+- ❓ [**FAQ**](https://github.com/fixyldev/LastDeathLocation/wiki/FAQ): Find answers to frequently asked questions.
+- 🐛 [**Issues**](https://github.com/fixyldev/LastDeathLocation/issues): For reporting bugs or suggesting features.
+- 📝 [**Changelog**](https://modrinth.com/datapack/last-death-location/changelog): Keep track of all notable changes made to the datapack.
