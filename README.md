@@ -3,8 +3,6 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/datapack/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
-[![Last Death Location Banner](images/banner.png)](https://modrinth.com/datapack/last-death-location)
-
 ## 📥 Download
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
 
