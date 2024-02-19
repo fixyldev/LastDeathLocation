@@ -13,7 +13,7 @@ tellraw @s ""
 
 tellraw @s ["  > ", {"translate": "ldl.menu.1.4.source", "fallback": "Source", "clickEvent": {"action": "open_url", "value": "https://github.com/fixyldev/LastDeathLocation"}, "hoverEvent": {"action": "show_text", "contents": "https://github.com/fixyldev/LastDeathLocation"}, "color": "#5588ff"}, " <"]
 tellraw @s ["  > ", {"translate": "ldl.menu.1.4.issues", "fallback": "Issues", "clickEvent": {"action": "open_url", "value": "https://github.com/fixyldev/LastDeathLocation/issues"}, "hoverEvent": {"action": "show_text", "contents": "https://github.com/fixyldev/LastDeathLocation/issues"}, "color": "#5588ff"}, " <"]
-tellraw @s ["  > ", {"translate": "ldl.menu.1.4.changelog", "fallback": "Changelog", "clickEvent": {"action": "open_url", "value": "https://modrinth.com/datapack/last-death-location/changelog"}, "hoverEvent": {"action": "show_text", "contents": "https://modrinth.com/datapack/last-death-location/changelog"}, "color": "#5588ff"}, " <"]
+tellraw @s ["  > ", {"translate": "ldl.menu.1.4.wiki", "fallback": "Wiki", "clickEvent": {"action": "open_url", "value": "https://github.com/fixyldev/LastDeathLocation/wiki"}, "hoverEvent": {"action": "show_text", "contents": "https://github.com/fixyldev/LastDeathLocation/wiki"}, "color": "#5588ff"}, " <"]
 
 tellraw @s ""
 
