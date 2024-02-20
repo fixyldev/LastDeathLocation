@@ -1,39 +1,39 @@
 # Last Death Location
 [![Actively Developed](https://img.shields.io/badge/status-actively_developed-brightgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#actively-developed)
 [![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/datapack/last-death-location)
-[![CurseForge](https://img.shields.io/curseforge/dt/621304?style=for-the-badge&logo=curseforge&labelColor=gray&color=f16436&label)](https://curseforge.com/minecraft/texture-packs/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
-[![Last Death Location Banner](images/banner.png)](https://modrinth.com/datapack/last-death-location)
+[![Banner](images/banner.webp)](https://modrinth.com/datapack/last-death-location)
 
 ## 📥 Download
-[<img src="images/modrinth.png" height="100">](https://modrinth.com/datapack/last-death-location)
-[<img src="images/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/last-death-location)
-<br></br>
+[<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/datapack/last-death-location)
 
 ## 🗒️ Description
-This **datapack** for Minecraft Java Edition gives you the possibility to display your "Last Death Location" after death in the chat. It displays the **coordinates**, the **dimension (mod compatible)** and creates a particle cuboid. The gamerule "doImmediateRespawn" must be disabled. If not, it will be disabled during installation and re-enabled after uninstallation. This datapack is somewhat a **cheat**, so be sure you want to use it. Otherwise use the Recovery Compass (vanilla item) instead of the datapack.
-<br/><br/>
+"Last Death Location" is a datapack for Minecraft Java Edition that allows players to view recent death locations. These locations can be accessed via the menu. The history in the menu can store up to 16 recent deaths. The datapack also offers several options to customize the player's experience. As there is no need for a "Recovery Compass" to view the last death location, some may consider this datapack as a form of **cheat**.
+
+## ✨ Features
+- Displaying your last death location, including coordinates and dimension.
+- Maintaining a history of your 16 most recent death locations, each marked with the corresponding in-game day.
+- Creating a cuboid marker at your death position.
+- Providing a teleport command for a recent death location that can be easily copied to the chat.
 
 ## ⌨️ Commands
-### Users:
-- `/trigger -deathlocation` displays your last death location in the chat
-- `/trigger -deathsettings` displays the settings menu in the chat
-### Operators:
-- `/function lastdeathlocation:update` prepares the datapack for updating to a newer version of the datapack (retains all settings)
-- `/function lastdeathlocation:uninstall` prepares the datapack for uninstallation (removes every scoreboard, etc.)
-<br/><br/>
+- `/trigger -deathlocation`: Displays the most recent death location.
+- `/trigger -deathhistory`: Displays the death history.
+- `/trigger -deathsettings`: Opens the settings menu.
+- `/trigger -deathmenu`: Opens the datapack-wide menu.
+
+## 🚀 Functions
+- `/function ldl:_clear_histories`: Clears the death history for all players.
+- `/function ldl:_reset_settings`: Resets the settings for all players (restores default values).
+- `/function ldl:_remove_cuboids`: Removes all currently chunk-loaded cuboids.
+- `/function ldl:_uninstall`: Removes all scoreboards, data storage, and loaded entities of the datapack.
 
 ## 🌍 Languages
-- English *(default language)*
-- German
-<br/><br/>
+"Last Death Location" does not natively support languages other than **English**. If you wish to use this datapack in your own language, you can create a custom resourcepack that utilizes translation keys. A more in-depth explanation can be found [here](https://github.com/fixyldev/LastDeathLocation/wiki/Languages).
 
-## 📷 Gallery
-![Message for Overworld Death](images/overworld.png?raw=true)
-![Message for Nether Death](images/the_nether.png?raw=true)
-![Message for End Death](images/the_end.png?raw=true)
-
-![Settings Menu](images/settings.png?raw=true)
-
-![Death Location](images/location.png?raw=true)
+## 🔍 Useful Resources
+- 📖 [**Wiki**](https://github.com/fixyldev/LastDeathLocation/wiki): For comprehensive datapack information.
+- ❓ [**FAQ**](https://github.com/fixyldev/LastDeathLocation/wiki/FAQ): Find answers to frequently asked questions.
+- 🐛 [**Issues**](https://github.com/fixyldev/LastDeathLocation/issues): For reporting bugs or suggesting features.
+- 📝 [**Changelog**](https://modrinth.com/datapack/last-death-location/changelog): Keep track of all notable changes made to the datapack.

@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"lastdeathlocation:tick"
+		"ldl:src/main"
 	]
 }
