@@ -7,8 +7,8 @@ function ldl:src/chat/header {Path: '[{"text": "Last Death Location / ", "clickE
 
 tellraw @s ""
 
-tellraw @s ["  ", {"translate": "ldl.menu.1.4.1.version", "fallback": "Version:  ", "color": "gold"}, {"text": "2.0", "color": "yellow"}]
-tellraw @s ["  ", {"translate": "ldl.menu.1.4.1.date", "fallback": "Date:      ", "color": "gold"}, {"text": "2024-02-20", "color": "yellow"}]
+tellraw @s ["  ", {"translate": "ldl.menu.1.4.1.version", "fallback": "Version:  ", "color": "gold"}, {"text": "2.0.1", "color": "yellow"}]
+tellraw @s ["  ", {"translate": "ldl.menu.1.4.1.date", "fallback": "Date:      ", "color": "gold"}, {"text": "2024-06-13", "color": "yellow"}]
 
 tellraw @s ""
 
