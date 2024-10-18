@@ -1,5 +1,5 @@
 # Last Death Location
-[![Actively Developed](https://img.shields.io/badge/status-actively_developed-brightgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#actively-developed)
+[![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#passively-maintained)
 [![Modrinth](https://img.shields.io/modrinth/dt/zQj6JND7?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/datapack/last-death-location)
 [![Latest](https://img.shields.io/modrinth/game-versions/zQj6JND7?style=for-the-badge&label=latest)](https://modrinth.com/datapack/last-death-location/versions)
 
