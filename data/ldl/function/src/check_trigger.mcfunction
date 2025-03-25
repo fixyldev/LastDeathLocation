@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2024 fixyldev
+# Copyright (c) 2025 fixyldev
 ###############################
 
 execute unless score @s -deathlocation matches 0 run function ldl:src/cmd/location

@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2024 fixyldev
+# Copyright (c) 2025 fixyldev
 ###############################
 
 data modify storage ldl:cache Cache.UUID0 set from entity @s UUID[0]

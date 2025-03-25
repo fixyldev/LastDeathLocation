@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2024 fixyldev
+# Copyright (c) 2025 fixyldev
 ###############################
 
 $execute if function ldl:src/path/menu/is_b if function ldl:src/path/menu/is_c run function ldl:src/menu/$(PathA)/$(PathB)/$(PathC).$(PathP)
