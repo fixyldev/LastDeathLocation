@@ -3,4 +3,4 @@
 # Copyright (c) 2025 fixyldev
 ###############################
 
-tellraw @s {"translate": "ldl.chat.border", "fallback": "---------------------------------------------------"}
+tellraw @s {translate: "ldl.chat.border", fallback: "---------------------------------------------------"}
