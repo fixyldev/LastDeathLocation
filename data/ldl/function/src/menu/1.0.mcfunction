@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2024 fixyldev
+# Copyright (c) 2025 fixyldev
 ###############################
 
 function ldl:src/chat/header {Path: '{"text": "Last Death Location", "clickEvent": {"action": "run_command", "value": "/trigger -deathmenu set 1"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "ldl.chat.navigate", "fallback": "Click to navigate"}}, "underlined": true}', Border: '{"translate": "ldl.menu.1.border", "fallback": "---------------------------"}'}

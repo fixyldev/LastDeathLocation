@@ -1,6 +1,6 @@
 ###############################
 # All Rights Reserved
-# Copyright (c) 2024 fixyldev
+# Copyright (c) 2025 fixyldev
 ###############################
 
 scoreboard players operation #Path ldl.calc = @s -deathsettings
